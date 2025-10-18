@@ -1,10 +1,10 @@
 # StatisticalModeling
 To build statistical model and Get inference from the data
 First thing first :
----What is difference between statistical modeling and ML modeling ?
-    Statistical Modeling: Primary goal = Understanding relationships (inference)
-    Machine Learning: Primary goal = Accurate predictions (prediction)
-The confusion arieses due method like Linear regression ,which is labelled as statistical method and ML method some time .
+---What is difference between statistical modeling and ML modeling ?  
+    Statistical Modeling: Primary goal = Understanding relationships (inference)  
+    Machine Learning: Primary goal = Accurate predictions (prediction)  
+The confusion arieses due method like Linear regression ,which is labelled as statistical method and ML method some time .  
 
 Same algorithm, different purposes:
 
@@ -33,5 +33,5 @@ Some of the comman confusons and there answers:
   Q. What about polynomial/logarithmic functions?"
 
   A. Statistics: Choose form based on theory
-  
+
      ML: Try multiple forms, pick what predicts best
