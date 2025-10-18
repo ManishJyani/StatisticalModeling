@@ -40,51 +40,38 @@ Some of the comman confusons and there answers:
 # Different type of Statistical approachs: 
 
 1. Generalized Linear Models (GLMs)  
-Logistic Regression: Binary outcomes (yes/no)
-
-Poisson Regression: Count data
-
-Multinomial Regression: Multiple categories
+    Logistic Regression: Binary outcomes (yes/no)  
+    Poisson Regression: Count data  
+    Multinomial Regression: Multiple categories  
 
 2. Analysis of Variance (ANOVA)  
-Compare means across multiple groups
-
-One-way ANOVA: Single factor
-
-Two-way ANOVA: Multiple factors with interactions
+    Compare means across multiple groups  
+    One-way ANOVA: Single factor  
+    Two-way ANOVA: Multiple factors with interactions  
 
 3. Time Series Analysis  
-ARIMA: Auto-regressive integrated moving average
-
-Seasonal Decomposition: Trend + Seasonality + Residuals
-
-Stationarity Testing: Dickey-Fuller test
+    ARIMA: Auto-regressive integrated moving average  
+    Seasonal Decomposition: Trend + Seasonality + Residuals  
+    Stationarity Testing: Dickey-Fuller test  
 
 4. Survival Analysis  
-Kaplan-Meier: Survival curves
-
-Cox Proportional Hazards: Factor effects on survival time
+    Kaplan-Meier: Survival curves  
+    Cox Proportional Hazards: Factor effects on survival time  
 
 5. Multivariate Methods  
-Principal Component Analysis (PCA): Dimension reduction
-
-Factor Analysis: Latent variable discovery
-
-Cluster Analysis: Group similar observations
+    Principal Component Analysis (PCA): Dimension reduction  
+    Factor Analysis: Latent variable discovery  
+    Cluster Analysis: Group similar observations  
  
 6. Bayesian Methods  
-Bayesian Inference: Probability-based parameter estimation
-
-Markov Chain Monte Carlo (MCMC): Complex posterior sampling
+    Bayesian Inference: Probability-based parameter estimation  
+    Markov Chain Monte Carlo (MCMC): Complex posterior sampling  
 
 7. Non-Parametric Tests  
-Mann-Whitney U: Non-normal group comparisons
+    Mann-Whitney U: Non-normal group comparisons  
+    Kruskal-Wallis: Multiple group comparisons  
+    Spearman's Rank: Non-linear correlations  
 
-Kruskal-Wallis: Multiple group comparisons
-
-Spearman's Rank: Non-linear correlations
-
-8. Experimental Design  
-A/B Testing: Treatment vs control
-
-Randomized Controlled Trials: Gold standard for causality
+8. Experimental Design    
+    A/B Testing: Treatment vs control  
+    Randomized Controlled Trials: Gold standard for causality  
