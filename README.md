@@ -114,3 +114,32 @@ One of the subtle difference that I noticed was **Quantile**,**percentile**,**Qu
 **Qarntile**:  A specific qunatile that divides dataset into 4 equal parts.  
 
 Calculating percentile is very computationlly heavy specifically for large data set.  
+
+**Visualization of data distribution**
+- Numerical Data:   
+        * Box plot  
+        * Histogram  
+        * Density plot : smoothed version of Histrogram.  
+
+- Categorical Data:  
+        *  Mode   
+        * Expected  Value  
+        * Bar chart   
+        * Pie chart    
+
+**Corelation**   
+- Corelation matrix and Spearman’s rho : <span style="color: red"> Fill the details here explaining these </span>  
+- Scatter plot : By visualzing we can see the trend.     
+
+Until now we have seen univariant analysis (mean ,mode , SD etc ) , and bi-variant (co-relaiton ) . We can do multi-variant analysis as well which also depend upon type of data like Numerical or categorical data.   
+
+**Multi-variant Analysis** 
+- Numerical Data:
+       *   Hexagonal Binning : a data visualization technique that groups points in a scatter plot into hexagonal bins and uses color to represent the density of points within each bin, reason is  Hexagons are a good shape for data aggregation because they are more similar to circles than squares, which leads to a more even distribution around the center of the bin.   
+       * Contour plots.    
+
+- Categorical Data:     
+        *  Contigency Table : It is basically a tally of counts between two or more categorical variables.
+        * Box plot : pandas boxplot method takes the by argument that splits the data set into groups and creates the individual boxplots.  
+        * Violin plots : A violin plot,is an enhancement to the boxplot and plots the density estimate with the density on the y-axis. The density is mirroredand flipped over, and the resulting shape is filled in, creating an image resembling a violin. In violin plots you can see the distribution of data but box plots give clear idea about the outliers of the dataset .
+
