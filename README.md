@@ -81,13 +81,13 @@ First improtant thing to do is understand the data , we will do EDA (Book : Prac
 # Chapter 01 : Exploratory Data Analysis  
 Data comes from many sources: sensor measurements, events, text, images, and videos. The Internet of Things (IoT) is spewing out streams of information. Much of this data is unstructured: images are a collection of pixels, with each pixel containing RGB
 (red, green, blue) color information. Texts are sequences of words and nonword characters, often organized by sections, subsections, and so on. Clickstreams are sequences of actions by a user interacting with an app or a web page.  
-Datatypes:  
+**Datatypes:**    
     Numeric:           
-        Continuous and Discrete  
-    Categorical:  
-        Data can take specific set of values representing that category.  
-        Binary : 0 and 1  
-        Ordinal : explilicit ordering (like rating a restraunt )  
+        * Continuous and Discrete  
+    Categorical:    
+        * Data can take specific set of values representing that category.  
+        * Binary : 0 and 1  
+        * Ordinal : explilicit ordering (like rating a restraunt )  
 Data typing in software acts as a signal to the software on how to process the data  
 When we have data ,we need to find something which can represent the whole data I mean **Central tendency**.  
 Few methods of these estimation are :  
